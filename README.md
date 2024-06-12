@@ -47,9 +47,9 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 ## Education 
 
 ### Master of Science in Computer Science 
-- **Institution**: [University Name]
-- **Year**: [Year]
-- **Thesis/Capstone Project**: Ethics of Data and Algorithms: Gang Database Analysis
+- **Institution**: Illinois Institute of Technology
+- **Year**: 2023
+- **Highlighted Project**: Ethics of Data and Algorithms: Gang Database Analysis
 - **Relevant Coursework**: Ethics of Data, Algorithms, Advanced Java Programming, Python for Data Analysis, Cloud Computing, Sustainable Technologies.
 
 ## Skills and Tools 
@@ -66,8 +66,8 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 - **Link**: [Link to Blog]
 
 ## Testimonials 
-- "Outstanding training sessions that greatly improved our team's GitHub skills." - [Colleague Name]
-- "Exceptional knowledge and delivery in every training class." - [Attendee Name]
+- "Outstanding training sessions that greatly improved our team's GitHub skills." - Jane Balooga
+- "Exceptional knowledge and delivery in every training class." - Terry McBerry
 
 ## Contact 
 - **Email**: larasundare@gmail.com
