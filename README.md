@@ -1,6 +1,7 @@
 # Lara Sundare - DevOps Engineer & Sustainability Advocate 
 
-## About Me Experienced DevOps Engineer with a passion for cloud infrastructure, developer enablement, and ethical AI. I specialize in GitHub training, CI/CD optimization, and sustainable technology solutions. My commitment to green computing and equity in tech drives my work. 
+## About Me 
+Experienced DevOps Engineer with a passion for cloud infrastructure, developer enablement, and ethical AI. I specialize in GitHub training, CI/CD optimization, and sustainable technology solutions. My commitment to green computing and equity in tech drives my work. 
 
 ## Key Projects 
 
