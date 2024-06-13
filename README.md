@@ -25,10 +25,19 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 - **Details**: Led Jenkins and large repository migration for AlexionHelix, owned by AstraZeneca.
 - **Impact**: Successfully migrated large-scale repositories, enhancing workflow efficiency.
 
-### CI/CD Pipeline Reconfiguration
+### CI/CD Pipeline Reconfiguration for Viking Global
 - **Role**: DevOps Consultant
-- **Details**: Assisted in optimizing CI/CD pipelines for Viking Global.
+- **Details**: Assisted in optimizing CI/CD pipelines and managing the migration of 600 repositories from GitLab to GitHub.
 - **Impact**: Laid groundwork for efficient pipeline processes.
+
+### Large-Scale Migration for Solera
+- **Role**: DevOps Consultant
+- **Details**: Assisted in the migration of 400 repositories, improving communication and efficiency within the team.
+
+### Development of Modern Dev Labs
+- **Role**: Developer Experience Advocate
+- **Details**: Created labs for internal teams to upskill on migrations, set up environments, wrote guides, and troubleshooted tools.
+- **Impact**: Enhanced internal training and identified critical bugs in migration tools.
 
 ### Ethical AI and Developer Experience 
 - **Role**: Presenter
@@ -61,7 +70,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
   - **Ethics and DEI**: Ethics of Data, Developer Experience, DEI in Tech
 
 ## Passion Projects 
-### Developer Experience Blog Green Computing and Sustainability 
+### Developer Experience Blog and Green Computing
 - **Description**: Sharing insights and best practices on improving developer experience. Blog and projects focused on green computing practices and sustainability in tech.
 - **Link**: [Link to Blog]
 
@@ -70,5 +79,5 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 - "Exceptional knowledge and delivery in every training class." - Terry McBerry
 
 ## Contact 
-- **Email**: larasundare@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/lara-sundare6/
+- **Email**: lara.sundare@gmail.com
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lara-sundare6/)
