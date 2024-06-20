@@ -90,7 +90,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 **Institution**: Illinois Institute of Technology  
 **Year**: 2023  
 **Highlighted Project**: Ethics of Data and Algorithms: Gang Database Analysis  
-**Relevant Coursework**: Ethics of Data, Algorithms, Advanced Java Programming, Python for Data Analysis, Cloud Computing, Sustainable Technologies.
+**Relevant Coursework**: Ethics of Data, Algorithms, Advanced Java Programming, Python for Data Analysis, Software Architecture, Software Quality Management, Database Organization and the like.
 
 ## Skills and Tools
 
