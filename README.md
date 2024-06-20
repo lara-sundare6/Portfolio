@@ -55,7 +55,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 
 ## Education 
 
-### Master of Science in Computer Science 
+### Masters in Computer Science 
 - **Institution**: Illinois Institute of Technology
 - **Year**: 2023
 - **Highlighted Project**: Ethics of Data and Algorithms: Gang Database Analysis
