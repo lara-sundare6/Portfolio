@@ -1,5 +1,10 @@
 # Lara Sundare - DevOps Engineer & Sustainability Advocate
 
+<div style="display: flex; justify-content: center;">
+  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iccKY2a064b0/v0/-999x-999.gif" alt="Cool Feature" width="400">
+</div>
+
+
 ## About Me
 Experienced DevOps Engineer with a passion for cloud infrastructure, developer enablement, and ethical AI. I specialize in GitHub training, CI/CD optimization, and sustainable technology solutions. My commitment to green computing and equity in tech drives my work.
 
