@@ -53,6 +53,37 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 - **Materials**: [Link to Project Repository](https://github.com/lara-sundare6/cpd-gang-database-analysis)  
 **Impact**: Raised awareness about the ethical implications of algorithmic decision-making in sensitive contexts.
 
+## Work Experience
+
+### DevOps Engineer
+**Company**: InfoMagnus  
+**Duration**: June 2023 - June 2024  
+**Location**: Remote  
+**Responsibilities**:
+- Managed GitHub Enterprise for multiple clients, ensuring seamless integration and high performance.
+- Led the migration of over 600 repositories from GitLab to GitHub for Viking Global, optimizing CI/CD pipelines.
+- Developed comprehensive guides and best practices for GitHub, streamlining developer onboarding and training.
+- Conducted over 50 training sessions, significantly improving team productivity and understanding of DevOps practices.
+- Created labs for internal teams to upskill on migrations and troubleshoot tools, contributing to GitHub's documentation updates.
+
+### Audio Engineer
+**Company**: Jungle AE Studio  
+**Duration**: May 2018 - January 2023  
+**Location**: Chicago, IL  
+**Responsibilities**:
+- Developed plans for recording and completing music projects.
+- Coached artists through the recording and mixing processes, establishing strong relationships.
+- Ensured artists left each session with a quality finished product they were ecstatic about.
+
+### Automotive Detailer
+**Company**: Enterprise Rent-A-Car  
+**Duration**: October 2020 - August 2021  
+**Location**: Chicago, IL  
+**Responsibilities**:
+- Detailed and sanitized rental vehicles, ensuring customer satisfaction.
+- Coordinated with colleagues to maintain high service standards.
+
+
 ## Education
 
 ### Master of Science in Computer Science
@@ -82,5 +113,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 
 ## Contact
 
-- **Email**: larasundare@gmail.com
+Feel free to reach out for collaborations, inquiries, or just a friendly chat about tech and sustainability!
+
+- **Email**: [lara.sundare@gmail.com](mailto:lara.sundare@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lara-sundare6/)
