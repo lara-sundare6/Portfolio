@@ -1,7 +1,7 @@
 # Lara Sundare - DevOps Engineer & Sustainability Advocate
 
 <div style="display: flex; justify-content: center;">
-  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iccKY2a064b0/v0/-999x-999.gif" alt="Cool Feature" width="400">
+  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iccKY2a064b0/v0/-999x-999.gif" alt="Cool Feature" width="250">
 </div>
 
 
