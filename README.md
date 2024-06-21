@@ -39,11 +39,6 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 **Details**: Created labs for internal teams to upskill on migrations, set up environments, wrote guides, and troubleshooted tools.  
 **Impact**: Enhanced internal training and identified critical bugs in migration tools.
 
-### Ethical AI and Developer Experience
-**Role**: Presenter  
-**Details**: Developed and presented a pitch for GitHub Universe on ethics and artificial intelligence.  
-**Impact**: Contributed to discussions on ethics in AI and DEI in tech.
-
 ### Ethics of Data and Algorithms: CPD Gang Database Project
 **Role**: Researcher and Developer (MS in Computer Science)  
 **Details**:  
