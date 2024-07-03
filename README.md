@@ -97,9 +97,9 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 
 ## Passion Projects
 
-### Developer Experience Blog and Green Computing
+### Developer Experience Blog and Green Computing *Coming Soon!*
 **Description**: Sharing insights and best practices on improving developer experience. Blog and projects focused on green computing practices and sustainability in tech.  
-**Link**: [Link to Blog]
+**Link**: [link will be here when ready :)]
 
 ## Testimonials
 
