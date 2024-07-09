@@ -44,7 +44,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 **Details**:  
 - **Analysis**: Conducted a detailed analysis of the CPD gang database, highlighting ethical issues such as bias, privacy concerns, and the impact on communities.  
 - **Proposals**: Suggested improvements to ensure more ethical and fair use of data and algorithms in such sensitive contexts.  
-- **Talk**: Presented findings and recommendations in a talk, engaging with the audience on the importance of ethics in algorithmic decision-making.  
+- **Talk**: Presented findings and recommendations, engaging with the audience on the importance of ethics in algorithmic decision-making.  
 - **Materials**: [Link to Project Repository](https://github.com/lara-sundare6/cpd-gang-database-analysis)  
 **Impact**: Raised awareness about the ethical implications of algorithmic decision-making in sensitive contexts.
 
@@ -101,14 +101,18 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 **Description**: Sharing insights and best practices on improving developer experience. Blog and projects focused on green computing practices and sustainability in tech.  
 **Link**: [link will be here when ready :)]
 
-## Testimonials
+### Fly Island Project *Coming Soon!*
+**Description**: Developed a "Fly Island" CI/CD pipeline project focusing on hoverflies and a unique build solution called "pollenate." The project includes a front page designed to highlight the ecological importance of hoverflies and other pollinators from each continent. It integrates green CI/CD practices, such as efficient builds and sustainable hosting, and displays data in an interactive format. The project aims to raise awareness about the ecological benefits of flies and contribute to sustainable farming practices.  
+**Link**: [link will be here when ready :)]
 
-- "Outstanding training sessions that greatly improved our team's GitHub skills." - Jane Balooga
-- "Exceptional knowledge and delivery in every training class." - Terry McBerry
+### Fly Island Project
+**Description**: Creating a "Fly Island" CI/CD pipeline project with a unique build solution called "pollenate," focusing on the ecological importance of hoverflies and other fly species that I like. The project will showcase green CI/CD practices and feature an interactive front page highlighting these pollinators!
+**Link**: [link will be here when ready :)]
+
 
 ## Contact
 
 Feel free to reach out for collaborations, inquiries, or just a friendly chat about tech and sustainability!
 
-- **Email**: [lara.sundare@gmail.com](mailto:lara.sundare@gmail.com)
+- **Email**: [larasundare@gmail.com](mailto:larasundare@gmail.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lara-sundare6/)
