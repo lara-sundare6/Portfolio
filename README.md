@@ -45,7 +45,7 @@ Experienced DevOps Engineer with a passion for cloud infrastructure, developer e
 - **Analysis**: Conducted a detailed analysis of the CPD gang database, highlighting ethical issues such as bias, privacy concerns, and the impact on communities.  
 - **Proposals**: Suggested improvements to ensure more ethical and fair use of data and algorithms in such sensitive contexts.  
 - **Talk**: Presented findings and recommendations, engaging with the audience on the importance of ethics in algorithmic decision-making.  
-- **Materials**: [Link to Project Repository](https://github.com/lara-sundare6/cpd-gang-database-analysis)  
+- **Materials**: [CPD Gang Databse Analysis Project Link](https://github.com/lara-sundare6/cpd-gang-database-analysis)  
 **Impact**: Raised awareness about the ethical implications of algorithmic decision-making in sensitive contexts.
 
 ## Work Experience
