@@ -6,7 +6,7 @@
 
 
 ## About Me
-Experienced DevOps Engineer/Software Consultant with a passion for cloud infrastructure, developer enablement, and ethical AI. I specialize in GitHub training, CI/CD optimization, and sustainable technology solutions. My commitment to green computing and equity in tech drives my work.
+Experienced DevOps Professional with a passion for improvement, enablement, facilitating success, and ethical AI. I specialize in GitHub training, CI/CD optimization, and sustainable technology solutions. My commitment to green computing and equity in tech drives my work.
 
 ## Key Projects
 
