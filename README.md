@@ -1,4 +1,4 @@
-# Lara Sundare - DevOps Engineer & Sustainability Advocate
+# Lara Sundare - DevOps & Sustainability
 
 <div style="display: flex; justify-content: center;">
   <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iccKY2a064b0/v0/-999x-999.gif" alt="Cool Feature" width="250">
