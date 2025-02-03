@@ -12,31 +12,42 @@ Experienced DevOps Professional with a passion for improvement, enablement, faci
 
 ### GitHub Training
 **Role**: Lead Trainer  
+
 **Details**: Developed and delivered accredited training modules for GitHub for Developers, GitHub Administration, and GitHub Migrations.  
+
 **Impact**: Enhanced developer proficiency with GitHub, earning positive feedback.
 
 ### Internal Knowledge Base for a Software Company
-**Role**: Content Developer  
-**Details**: Created comprehensive guides and best practices for version control and collaboration platform.  
+**Role**: Content Developer
+
+**Details**: Created comprehensive guides and best practices for version control and collaboration platform.
+
 **Impact**: Streamlined developer onboarding and training at a software company.
 
 ### Build Automation and Repository Migration for a Biopharmaceutical Company
 **Role**: Version Control Migration Specialist/Consultant  
+
 **Details**: Led build automation system and large repository migration for a subsidiary of a major pharmaceutical company.  
+
 **Impact**: Successfully migrated large-scale repositories, enhancing workflow efficiency.
 
 ### Continuous Integration/Continuous Delivery Pipeline Reconfiguration for a Global Investment Firm
 **Role**: DevOps Consultant  
-**Details**: Assisted in optimizing CI/CD pipelines and managing the migration of a large number of repositories from one platform to another.  
+
+**Details**: Assisted in optimizing CI/CD pipelines and managing the migration of a large number of repositories from one platform to another.
+
 **Impact**: Laid groundwork for efficient pipeline processes.
 
 ### Large-Scale Migration for an Automotive Software Company
 **Role**: DevOps Consultant  
+
 **Details**: Assisted in the migration of a large number of repositories, improving communication and efficiency within the team.
 
 ### Development of Modern Dev Labs
 **Role**: Developer Experience Advocate  
+
 **Details**: Created labs for internal teams to upskill on migrations, set up environments, wrote guides, and troubleshooted tools.  
+
 **Impact**: Enhanced internal training and identified critical bugs in migration tools.
 
 ### Ethics of Data and Algorithms: CPD Gang Database Project
