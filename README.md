@@ -15,24 +15,24 @@ Experienced DevOps Professional with a passion for improvement, enablement, faci
 **Details**: Developed and delivered accredited training modules for GitHub for Developers, GitHub Administration, and GitHub Migrations.  
 **Impact**: Enhanced developer proficiency with GitHub, earning positive feedback.
 
-### Terradyne Knowledge Base
-**Role**: Content Developer  
-**Details**: Created comprehensive guides and best practices for Git and GitHub.  
-**Impact**: Streamlined developer onboarding and training at Terradyne.
+### Internal Knowledge Base for a Software Company
+**Role**: Content Developer  
+**Details**: Created comprehensive guides and best practices for version control and collaboration platform.  
+**Impact**: Streamlined developer onboarding and training at a software company.
 
-### Jenkins and Repository Migration for AlexionHelix
-**Role**: GitHub Migration Specialist/Consultant  
-**Details**: Led Jenkins and large repository migration for AlexionHelix, owned by AstraZeneca.  
+### Build Automation and Repository Migration for a Biopharmaceutical Company
+**Role**: Version Control Migration Specialist/Consultant  
+**Details**: Led build automation system and large repository migration for a subsidiary of a major pharmaceutical company.  
 **Impact**: Successfully migrated large-scale repositories, enhancing workflow efficiency.
 
-### CI/CD Pipeline Reconfiguration for Viking Global
-**Role**: DevOps Consultant  
-**Details**: Assisted in optimizing CI/CD pipelines and managing the migration of 600 repositories from GitLab to GitHub.  
+### Continuous Integration/Continuous Delivery Pipeline Reconfiguration for a Global Investment Firm
+**Role**: DevOps Consultant  
+**Details**: Assisted in optimizing CI/CD pipelines and managing the migration of a large number of repositories from one platform to another.  
 **Impact**: Laid groundwork for efficient pipeline processes.
 
-### Large-Scale Migration for Solera
-**Role**: DevOps Consultant  
-**Details**: Assisted in the migration of 400 repositories, improving communication and efficiency within the team.
+### Large-Scale Migration for an Automotive Software Company
+**Role**: DevOps Consultant  
+**Details**: Assisted in the migration of a large number of repositories, improving communication and efficiency within the team.
 
 ### Development of Modern Dev Labs
 **Role**: Developer Experience Advocate  
