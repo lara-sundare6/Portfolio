@@ -6,7 +6,7 @@
 
 
 ## About Me
-Experienced DevOps Professional with a passion for improvement, enablement, facilitating success, and ethical Software. I specialize in GitHub training, CI/CD optimization, DevOps, and Enterprise Consulting & Training. My commitment to green computing and equity in tech drives my work.
+Experienced DevOps Professional with a passion for improvement, enablement, facilitating success, and ethical Software. I specialize in GitHub training, CI/CD optimization, DevOps, and Enterprise Consulting & Training. My commitment to equity, efficiency, and sustainibility drives my work.
 
 ## Key Projects
 
