@@ -8,6 +8,10 @@
 ## About Me
 Experienced DevOps Professional with a passion for improvement, enablement, facilitating success, and ethical Software. I specialize in GitHub training, CI/CD optimization, DevOps, and Enterprise Consulting & Training. My commitment to equity, efficiency, and sustainibility drives my work.
 
+**Current Public Projects**: 
+- https://github.com/lara-sundare6/weather-crop-data-pipeline
+- https://github.com/lara-sundare6/cpd-gang-database-analysis
+
 ## Key Projects
 
 ### GitHub Training
@@ -108,9 +112,9 @@ Experienced DevOps Professional with a passion for improvement, enablement, faci
 
 ## Passion Projects
 
-### Developer Experience Blog, DevOps, Tech, and Green Computing
+### Developer Experience Blog, DevOps, Tech
 **Description**: Sharing insights and best practices on improving developer experience. Blog and projects focused on green computing practices and sustainability in tech.  
-**Link**: lara-sundare6.github.io
+**Blog Link**: lara-sundare6.github.io
 
 ### Fly Island Project
 **Description**: Creating a "Fly Island" CI/CD pipeline project with a unique build solution called "pollenate," focusing on the ecological importance of hoverflies and other fly species that I like. The project will showcase green CI/CD practices and feature an interactive front page highlighting these pollinators!
