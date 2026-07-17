@@ -1,130 +1,82 @@
-# Lara Sundare - DevOps & Sustainability
+# Lara Sundare
 
-<div style="display: flex; justify-content: center;">
-  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iccKY2a064b0/v0/-999x-999.gif" alt="Cool Feature" width="250">
-</div>
+AI infrastructure and AgentOps engineer. I turn messy platform problems into production systems: APIs, agents, governance tooling, and delivery infrastructure you can reuse.
 
+**Chicago, IL** · [Blog](https://lara-sundare6.github.io/) · [Fly Island overview](https://lara-sundare6.github.io/fly-island/) · [LinkedIn](https://www.linkedin.com/in/lara-sundare6/) · [Email](mailto:larasundare@gmail.com)
 
-## About Me
-Experienced DevOps Professional with a passion for improvement, enablement, facilitating success, and ethical Software. I specialize in GitHub training, CI/CD optimization, DevOps, and Enterprise Consulting & Training. My commitment to equity, efficiency, and sustainibility drives my work.
+---
 
-**Current Public Projects**: 
-- https://github.com/lara-sundare6/weather-crop-data-pipeline
-- https://github.com/lara-sundare6/cpd-gang-database-analysis
+## Start here (for hiring managers)
 
-## Key Projects
+| What to open | Why |
+|---|---|
+| [Fly Island: AgentOps overview](https://lara-sundare6.github.io/fly-island/) | Solo-built AgentOps platform. Observe≠write agents, LLM safety gates, cost/carbon controls. Public proof page (core repo is proprietary). |
+| [Biomimetic engineering essay](https://lara-sundare6.github.io/category/2026/07/10/biomimetic-engineering-capping-the-physical-cost-of-unbounded-ai.html) | Design thesis behind Fly Island. |
+| [Blog](https://lara-sundare6.github.io/) | Writing and project notes. |
+| [weather-crop-data-pipeline](https://github.com/lara-sundare6/weather-crop-data-pipeline) | Public data/pipeline work. |
+| [cpd-gang-database-analysis](https://github.com/lara-sundare6/cpd-gang-database-analysis) | Ethics of data and algorithms research project. |
 
-### GitHub Training
-**Role**: Lead Trainer  
+If you want a live architecture walkthrough of Fly Island, ask. Happy to screen-share in an interview.
 
-**Details**: Developed and delivered accredited training modules for GitHub for Developers, GitHub Administration, and GitHub Migrations.  
+---
 
-**Impact**: Enhanced developer proficiency with GitHub, earning positive feedback.
+## What I build now
 
-### Internal Knowledge Base for a Software Company
-**Role**: Content Developer
+- **Production AI systems** on Google Cloud: RAG pipelines, Cloud Run APIs, nightly ETL into vector stores, Terraform-managed secure enclaves.
+- **AgentOps / reliability**: bounded remediation agents, structured model output, path allowlists, circuit breakers, shadow mode, token and carbon budgets.
+- **Governance**: compliance scanning, SAIF-style scorecards, FERPA-aware landing zones, reusable delivery playbooks.
+- **Developer experience**: GitHub Enterprise migrations, training, and CI/CD enablement from earlier consulting work.
 
-**Details**: Created comprehensive guides and best practices for version control and collaboration platform.
+Current role: Associate Cloud Consultant at Burwood Group (acquired by Sikich). Independent work: Fly Island.
 
-**Impact**: Streamlined developer onboarding and training at a software company.
+---
 
-### Build Automation and Repository Migration for a Biopharmaceutical Company
-**Role**: Version Control Migration Specialist/Consultant  
+## Fly Island
 
-**Details**: Led build automation system and large repository migration for a subsidiary of a major pharmaceutical company.  
+Solo-built AgentOps platform (Rust) for observing GitHub Actions failures, costing runs in USD and Software Carbon Intensity (SCI), and remediating only inside hard bounds.
 
-**Impact**: Successfully migrated large-scale repositories, enhancing workflow efficiency.
+- Persistent **Hoverfly** agents observe and plan. They have no write access.
+- Ephemeral **Bee** agents execute one MCP write task and exit.
+- Architecture tests keep reasoning code from importing write tools.
+- Defaults to read/shadow mode until promotion criteria pass.
 
-### Continuous Integration/Continuous Delivery Pipeline Reconfiguration for a Global Investment Firm
-**Role**: DevOps Consultant  
+**Public overview:** https://lara-sundare6.github.io/fly-island/  
+**Essay:** https://lara-sundare6.github.io/category/2026/07/10/biomimetic-engineering-capping-the-physical-cost-of-unbounded-ai.html
 
-**Details**: Assisted in optimizing CI/CD pipelines and managing the migration of a large number of repositories from one platform to another.
+Earlier public experiments (`fly-island-v1`, `fly-island-v2`, `fly-islandv3`) are archived or superseded. The current product overview is the page above.
 
-**Impact**: Laid groundwork for efficient pipeline processes.
+---
 
-### Large-Scale Migration for an Automotive Software Company
-**Role**: DevOps Consultant  
+## Selected public projects
 
-**Details**: Assisted in the migration of a large number of repositories, improving communication and efficiency within the team.
+### CPD Gang Database Analysis
+Ethics, bias, and community-impact analysis of algorithmic policing data.  
+https://github.com/lara-sundare6/cpd-gang-database-analysis
 
-### Development of Modern Dev Labs
-**Role**: Developer Experience Advocate  
+### Weather / crop data pipeline
+Public data pipeline work.  
+https://github.com/lara-sundare6/weather-crop-data-pipeline
 
-**Details**: Created labs for internal teams to upskill on migrations, set up environments, wrote guides, and troubleshooted tools.  
+### GitHub Enterprise consulting (InfoMagnus, 2023–2024)
+Fortune 500 migrations to GitHub Enterprise Cloud, training programs, and zero-install migration tooling with Azure VMs and GitHub Codespaces. Client names omitted here where appropriate.
 
-**Impact**: Enhanced internal training and identified critical bugs in migration tools.
+---
 
-### Ethics of Data and Algorithms: CPD Gang Database Project
-**Role**: Researcher and Developer (MS in Computer Science)  
-**Details**:  
-- **Analysis**: Conducted a detailed analysis of the CPD gang database, highlighting ethical issues such as bias, privacy concerns, and the impact on communities.  
-- **Proposals**: Suggested improvements to ensure more ethical and fair use of data and algorithms in such sensitive contexts.  
-- **Talk**: Presented findings and recommendations, engaging with the audience on the importance of ethics in algorithmic decision-making.  
-- **Materials**: [CPD Gang Databse Analysis Project Link](https://github.com/lara-sundare6/cpd-gang-database-analysis)  
-**Impact**: Raised awareness about the ethical implications of algorithmic decision-making in sensitive contexts.
+## Stack (working set)
 
-## Work Experience
+Rust (Tokio), Python, TypeScript, Terraform / OpenTofu, Google Cloud (Cloud Run, BigQuery, Workflows, GKE), Azure, GitHub Actions, Docker, Redis, OpenTelemetry, Prowler, LangChain / Vertex AI / Gemini Enterprise.
 
-### DevOps Engineer
-**Company**: InfoMagnus  
-**Duration**: June 2023 - June 2024  
-**Location**: Remote  
-**Responsibilities**:
-- Managed GitHub Enterprise for multiple clients, ensuring seamless integration and high performance.
-- Led the migration of over 600 repositories from GitLab to GitHub for Viking Global, optimizing CI/CD pipelines.
-- Developed comprehensive guides and best practices for GitHub, streamlining developer onboarding and training.
-- Conducted over 50 training sessions, significantly improving team productivity and understanding of DevOps practices.
-- Created labs for internal teams to upskill on migrations and troubleshoot tools, contributing to GitHub's documentation updates.
-
-### Audio Engineer
-**Company**: Jungle AE Studio  
-**Duration**: May 2018 - January 2023  
-**Location**: Chicago, IL  
-**Responsibilities**:
-- Developed plans for recording and completing music projects.
-- Coached artists through the recording and mixing processes, establishing strong relationships.
-- Ensured artists left each session with a quality finished product they were ecstatic about.
-
-### Automotive Detailer
-**Company**: Enterprise Rent-A-Car  
-**Duration**: October 2020 - August 2021  
-**Location**: Chicago, IL  
-**Responsibilities**:
-- Detailed and sanitized rental vehicles, ensuring customer satisfaction.
-- Coordinated with colleagues to maintain high service standards.
-
+---
 
 ## Education
 
-### Master of Science in Computer Science
-**Institution**: Illinois Institute of Technology  
-**Year**: 2023  
-**Highlighted Project**: Ethics of Data and Algorithms: Gang Database Analysis  
-**Relevant Coursework**: Ethics of Data, Algorithms, Advanced Java Programming, Python for Data Analysis, Software Architecture, Software Quality Management, Database Organization and the like.
+Graduate coursework in Computer Science, Illinois Institute of Technology (2021–2023).  
+B.A., Audio Design and Production, Columbia College Chicago (2017–2019).
 
-## Skills and Tools
-
-- **Programming Languages**: Python (advanced), Java (advanced), JavaScript
-- **Frameworks and Libraries**: Flask, React
-- **DevOps and CI/CD**: Git, GitHub Actions, Jenkins, Docker, Azure DevOps, Azure System Admin, Microsoft Entra ID
-- **Other Tools**: Bash, Shell Scripting, NPM, GitHub Enterprise, Enterprise Managed Users
-- **Ethics and DEI**: Ethics of Data, Developer Experience, DEI in Tech
-
-## Passion Projects
-
-### Developer Experience Blog, DevOps, Tech
-**Description**: Sharing insights and best practices on improving developer experience. Blog and projects focused on green computing practices and sustainability in tech.  
-**Blog Link**: lara-sundare6.github.io
-
-### Fly Island Project
-**Description**: Creating a "Fly Island" CI/CD pipeline project with a unique build solution called "pollenate," focusing on the ecological importance of hoverflies and other fly species that I like. The project will showcase green CI/CD practices and feature an interactive front page highlighting these pollinators!
-
-**Link**: [Fly Island](https://github.com/lara-sundare6/fly-island)
-
+---
 
 ## Contact
 
-Feel free to reach out for collaborations, inquiries, or just a friendly chat about tech and sustainability!
-
-- **Email**: [larasundare@gmail.com](mailto:larasundare@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/lara-sundare6/)
+- Email: larasundare@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lara-sundare6/
+- Blog: https://lara-sundare6.github.io/
